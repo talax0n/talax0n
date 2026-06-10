@@ -10,8 +10,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<a href="https://github.com/talax0n"><img height="180" src="https://streak-stats.demolab.com?user=talax0n&theme=tokyonight" /></a>
-<a href="https://github.com/talax0n"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talax0n&layout=compact&theme=tokyonight" /></a>
+<div align="center">
+  <a href="https://github.com/talax0n"><img src="https://streak-stats.demolab.com?user=talax0n&theme=tokyonight" /></a>
+</div>
 
 ---
 
