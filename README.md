@@ -10,9 +10,8 @@
 
 <h2>📊 GitHub Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=talax0n&theme=tokyonight)](https://github.com/talax0n)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talax0n&layout=compact&theme=tokyonight)](https://github.com/talax0n)
+<a href="https://github.com/talax0n"><img height="180" src="https://streak-stats.demolab.com?user=talax0n&theme=tokyonight" /></a>
+<a href="https://github.com/talax0n"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talax0n&layout=compact&theme=tokyonight" /></a>
 
 ---
 
