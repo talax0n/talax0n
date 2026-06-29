@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working: <b>Full Time Laboratory Assistant at BINUS University</b>
 - 🌱 I'm currently learning: <b>Full Stack Development & Web 3 Dev</b> 👨‍🔬
-- 🚀 Projects I'm in: <b>Octora · SolHedge · Spektrum · Panora · XFlare</b>
+- 🚀 Building <b>Octora · SolHedge · Spektrum · Panora · XFlare · Verdana Protocol</b>
 
 ---
 
