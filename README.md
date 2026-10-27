@@ -16,6 +16,28 @@
 
 ---
 
+<h2>🏢 Commits</h2>
+
+**5,911 commits** (default branches, as of Oct 2026).
+
+```mermaid
+pie showData
+    "solhedge-team" : 2955
+    "KaisaLabs" : 706
+    "HedginVault" : 665
+    "SpektrumTCG" : 316
+    "OctoraLabs" : 281
+    "Acad600-TPA" : 247
+    "Acad600-RIG" : 210
+    "PanoraLabs" : 184
+    "SakuLabs" : 148
+    "KageHQ" : 123
+    "LivelyHub" : 72
+    "Verdanalabs" : 4
+```
+
+---
+
 <h2>🐍 Contribution Snake</h2>
 
 ![Snake animation](https://raw.githubusercontent.com/talax0n/talax0n/output/github-contribution-grid-snake-dark.svg)
