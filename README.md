@@ -10,7 +10,10 @@
 
 - 🏢 Full-time **Laboratory Assistant** at **BINUS University**
 - 🌱 Leveling up in **full stack development** and **Web3**
-- 🚀 Building **[SolHedge](https://github.com/solhedge-team)** · **[Hedgin](https://github.com/HedginVault)** · **XFlare**
+- 🚀 **Core Engineer & Web3 Developer** @
+  - **[SolHedge](https://github.com/solhedge-team)**
+  - **[Hedgin](https://github.com/HedginVault)**
+  - **XFlare**
 
 ---
 
