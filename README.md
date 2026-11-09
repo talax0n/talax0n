@@ -48,9 +48,7 @@
 
 ### 📊 Activity
 
-<div align="center">
-  <a href="https://github.com/talax0n"><img src="https://streak-stats.demolab.com?user=talax0n&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
-</div>
+[![talax0n's GitHub stats](https://gitshine.com/card/talax0n)](https://gitshine.com/stats/talax0n)
 
 ---
 
